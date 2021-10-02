@@ -1,26 +1,26 @@
 ## Roles
-Role | Color
------------|-------------
-god | unknown
-Obama | unknown
-wandering tree farmer | unknown
-crime boss | #f03f42
-Gator | Light Green
-Incel | #0e0101
-Sperg | #ee88ff
-Sploimper | #0db6ff
-Maestro | #1400c9
-Homunculus | #ff4ee4
-CANT HANDLE THEIR LIQUOR | Light Orange
-redpilled | #ff0000
-e girl | Light Pink
-speshal | Light Turquoise
-Inferior | Light Orange
-cringe | Light Orange
-bluepilled | #0067ff
-Barlo | #e4ae38
-yikes | default
-cody | default 
+Role | Description | Color
+-----------|------------- | -------------
+god | owner | unknown
+Obama | valiant | unknown
+wandering tree farmer | Jack | unknown
+crime boss | Nico | #f03f42
+Gator | Chris | Light Green
+Incel | Incels | #0e0101
+Sperg | Frank | #ee88ff
+Sploimper | Joe | #0db6ff
+Maestro | Jared | #1400c9
+Homunculus | Aidan | #ff4ee4
+CANT HANDLE THEIR LIQUOR | Chinger | Light Orange
+redpilled | redpilled | #ff0000
+e girl | W\*men | Light Pink
+speshal | Kas? | Light Turquoise
+Inferior | Kate | Light Orange
+cringe | cringe | Light Orange
+bluepilled | bluepilled | #0067ff
+Barlo | also Nico | #e4ae38
+yikes | ? | default
+cody | cody (no perms) | default 
 
 # Channels
 channels are sorted from top to bottom, and fall under the next highest channel with type "category"
